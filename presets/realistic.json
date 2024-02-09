@@ -1,5 +1,5 @@
 {
-    "default_model": "realisticStockPhoto_v20.safetensors",
+    "default_model": "think.safetensors",
     "default_refiner": "",
     "default_refiner_switch": 0.5,
     "default_loras": [
